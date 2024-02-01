@@ -3,7 +3,7 @@
 
 /**
  * binary_tree_height - checks the height of a binary tree
- * @tree: tree to measure the height 
+ * @tree: tree to measure the height
  *
  * Return: height of the tree
  *         0 if tree is NULL
