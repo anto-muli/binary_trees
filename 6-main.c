@@ -33,4 +33,3 @@ int main(void)
     binary_tree_preorder(root, &print_num);
     return (0);
 }
-
